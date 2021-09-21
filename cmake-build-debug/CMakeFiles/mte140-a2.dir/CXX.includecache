@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/JUPI/CLionProjects/mte140-1211-a2-j55gill/dynamic-stack.cpp
+dynamic-stack.h
+C:/Users/JUPI/CLionProjects/mte140-1211-a2-j55gill/dynamic-stack.h
+iostream
+-
+
+C:/Users/JUPI/CLionProjects/mte140-1211-a2-j55gill/dynamic-stack.h
+
